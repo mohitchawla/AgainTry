@@ -11,7 +11,7 @@ public class Application extends Controller {
 
     public static void index() {
     	System.out.println("mohit Chawla");
-    	System.out.println("mohit Chawla");
+    	System.out.println("mohit Chawla 1");
         render();
     }
 
